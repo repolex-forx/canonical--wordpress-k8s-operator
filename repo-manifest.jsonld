@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/wordpress-k8s-operator/commit/b93fa19e0de3166b1c183afd2e0de95723259cb8",
       "git:hexsha": "b93fa19e0de3166b1c183afd2e0de95723259cb8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev193"
     },
     {
