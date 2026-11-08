@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "wordpress-k8s-operator",
+  "versions": [
+    {
+      "commit": "b93fa19e0de3166b1c183afd2e0de95723259cb8",
+      "tag": "rev193",
+      "parsed_at": "2026-11-08T04:30:05.407615+00:00"
+    }
+  ]
+}
